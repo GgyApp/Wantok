@@ -1,0 +1,7 @@
+{
+  "name": "Wantok App Prototype",
+  "description": "Prototype of the Wantok social media application featuring a TikTok-style feed, PNG aesthetics, and creator economy integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
